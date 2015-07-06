@@ -1,10 +1,10 @@
 <?php
 /**
    *
-   * @package   bdwebteam-recent-post-tabs-widget
+   * @package    Bootstrap-one-page-woocommerce-checkout
    * @author    Md. Mahabub Masan Manik <m.manik01@gmail.com>
    * @license   MIT License
-   * @link      http://plugin.bdwebteam.com/bdwebteam-recent-post-tabs-widget
+   * @link      http://plugin.bdwebteam.com/bootstrap-one-page-checkout
    * @copyright 2015 Mahabub Hasan
    * 
  */
@@ -15,5 +15,5 @@ if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
 }
 
 // Delete plugin settings
-delete_option( 'bdwebteam-recent-post-tabs-widget' );
-delete_site_option( 'bdwebteam-recent-post-tabs-widget' );
+delete_option( 'Bootstrap-one-page-woocommerce-checkout' );
+delete_site_option( 'Bootstrap-one-page-woocommerce-checkout' );

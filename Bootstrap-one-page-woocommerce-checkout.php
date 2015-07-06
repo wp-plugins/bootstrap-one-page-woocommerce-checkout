@@ -1,7 +1,7 @@
 <?php
 /**
 Plugin Name:  Bootstrap one page woocommerce checkout
-Plugin URI: http://plugin.BDWEBTEAMm.com/bootstrap-one-page-checkout/
+Plugin URI: http://plugin.bdwebteam.com/bootstrap-one-page-checkout/
 Description: Just a bootstrap one page woocommerce checkout.
 Author: mahabub hasan
 Author URI: http://bdwebteam.com/
